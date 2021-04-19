@@ -1,0 +1,20 @@
+html {
+    padding: 10px;
+}
+.survey {
+    display: block;
+    text-align: center;  
+}
+
+#descripcion {
+    width: 40%;
+    height: 200px; 
+    word-break: break-all;
+}
+
+.encabezado {
+    display: block;
+    text-align: center;
+    background-color :#56854a;
+    
+}
